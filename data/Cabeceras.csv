@@ -1,0 +1,41 @@
+ctipcre,Tipo de credito
+ccodprd,
+cmodali,Modalidad de credito
+csececo,Sector economico
+cdescre,destino de credito
+cfuefin,Fuente de financiamiento
+dfecapr,Fecha de apertura
+ctipcuo,Tipo de cuota
+ctipper,Tipo de persona
+ctipcal,Tipo de calculo
+dfecvig,Fecha de vigencia
+dultpag,
+dfecter,Fecha de termino
+nmonapr,Monto de apertura
+ncapdes,Capital desembolsado
+ncapcal,Capital calculado
+ncappag,Capital pagado
+ntasint,Tasa de interes
+nintpen,Interes pendiente
+nintcal,Interes calculado
+nintpag,Interes pagado
+nintmor,Interes moratorio
+npagcta,
+nmorpag,Interes moratorio pagado
+ngastos,gastos generados
+ngaspag,Gastos pagados
+ncuoapr,Numero de cuotas
+ndiaatr,Dias de atraso
+natrmax,Atraso maximo
+cctapre,
+ccondic,Condicion del credito
+cestado,Estado del credito
+ccodana,Codigo de analista
+dSalPag,
+cCodPdc,Codigo del producto
+dFecVen,Fecha de vencimiento
+nTasEfe,Tasa efectiva
+cCodOfi,Codigo de oficina
+nPerGra,Periodo de gracia
+nPerLbr,Periodo libre
+cComApr,Comentario de aprobacion
