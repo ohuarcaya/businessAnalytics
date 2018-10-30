@@ -1,5 +1,5 @@
 # ignore
 .Rhistory
-#.ipynb_checkpoints/*
+.ipynb_checkpoints/*
 .RData
 
